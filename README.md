@@ -1,1 +1,1 @@
-# Yandex_ml_course
+# Young&&Yandex и girafe-ai Тренировки по Machine Learning
